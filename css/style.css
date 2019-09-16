@@ -1,0 +1,48 @@
+html {
+position: relative;
+min-height: 100%;
+margin: 0;
+padding: 0;
+overflow: auto;
+ 
+}
+
+body {
+  padding-top: 56px;
+}
+
+/* cor da navbar */
+.navbar-custom {
+  background-color: #41b3a3;
+}
+
+/* Modifica a foto */
+.img-fluid {
+  max-width: auto;
+  height: auto;
+}
+
+/* modifica a cor no card logo abaixo da foto (onde tem descrição resumida) */
+.color_card {
+  background-color: #fbeec1;
+  color: black;
+}
+
+/* modifica nos links na navbar */
+.nav-link{
+  color: #fbeec1;
+}
+
+/* modifica na navbar -> Mário Antunes */
+.navbar-brand{
+  color: #fbeec1;
+}
+
+.btn{
+  color: #fbeec1;
+  background-color: #e8a87c;
+}
+
+img {
+  image-rendering: -webkit-optimize-contrast;
+}
